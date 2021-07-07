@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+html {
+	width: 100%;
+}
+
+body {
+	font-family: Helvetica,Arial,sans-serif;
+	line-height: 1.3em;
+	margin: 0px 0px 0px 0px;
+	background-color:#333333;
+	font-size: 12px;
+	color: #EEE;
+	text-align:center;
+}
+
+#topo {
+	margin: 0px auto;
+	padding-top: 10px;
+	background-color: #000000;
+	border-bottom: 2px solid #555;
+	height:30px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+	
+#frame{
+	margin: 2em auto;
+	padding: 0px;
+	width: 560px;
+}
+
+a {
+	color:#009900;
+	text-decoration:none;
+	}
